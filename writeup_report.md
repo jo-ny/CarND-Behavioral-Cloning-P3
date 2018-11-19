@@ -29,6 +29,7 @@ The goals / steps of this project are the following:
 
 My project includes the following files:
 * model.ipynb containing the script to create and train the model
+* model.py also containing the script to create and train the model, load data with generator
 * drive.py for driving the car in autonomous mode
 * model.h5 containing a trained convolution neural network 
 * writeup_report.md summarizing the results
